@@ -1,0 +1,15 @@
+{
+  "name": "bot",
+  "version": "0.0.1",
+  "description": "A Discord bot by DRY411S",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DRY411S",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "eslint": "^7.21.0"
+  }
+}
